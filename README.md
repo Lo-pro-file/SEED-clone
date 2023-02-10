@@ -26,4 +26,4 @@ Credit to original creator wrenfairbank
 
 # Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tele-v1/SEED-clone)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/angel-loveyou/SEED-clone)
