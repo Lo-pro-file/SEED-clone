@@ -1,10 +1,10 @@
 {
 	"name": "SEED-clone Bot",
 	"description": "SEED-clone Bot",
-	"repository": "https://github.com/tele-v1/SEED-clone",
+	"repository": "https://github.com/angel-loveyou/SEED-clone",
 	"keywords": ["fclone","FG"],
-        "website": "https://t.me/woodcraft5",
-        "success_url": "https://github.com/tele-v1/SEED-clone/blob/main/README.md",
+        "website": "https://t.me/Farooq_is_KING",
+        "success_url": "https://github.com/angel-loveyou/SEED-clone/blob/main/README.md",
 	"env": {
 		"telegram_token": {
 			"description": "Get one from @botfather by creating new bot"
